@@ -1,0 +1,13 @@
+Enter number of items: 4
+Enter weights and profits:
+10 60
+20 100
+30 120
+40 140
+Enter knapsack capacity: 15
+
+Selected items:
+Item 1 fully taken
+Item 2 taken 0.25 fraction
+
+Maximum Profit = 85.00
