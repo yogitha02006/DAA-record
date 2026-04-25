@@ -1,0 +1,13 @@
+Enter number of vertices: 4
+Enter cost matrix:
+0 10 6 5
+10 0 0 15
+6 0 0 4
+5 15 4 0
+
+Edges in MST:
+3 - 4 = 4
+1 - 4 = 5
+1 - 2 = 10
+
+Minimum cost = 19
