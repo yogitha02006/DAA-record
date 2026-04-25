@@ -1,0 +1,13 @@
+Enter number of vertices: 4
+Enter cost matrix:
+0 2 0 6
+2 0 3 8
+0 3 0 0
+6 8 0 0
+Enter starting vertex (0 to 3): 0
+
+Shortest distances from vertex 0:
+To 0 = 0
+To 1 = 2
+To 2 = 5
+To 3 = 6
